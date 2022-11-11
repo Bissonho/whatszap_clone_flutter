@@ -42,7 +42,15 @@ class MobileScrennLayout extends StatelessWidget {
                 Tab(text: 'CALLS'),
               ]),
         ),
-        body: ContactsList(),
+        body: const ContactsList(),
+        floatingActionButton: FloatingActionButton(
+          onPressed: () {},
+          backgroundColor: tabColor,
+          child: const Icon(
+            Icons.comment,
+            color: Colors.white,
+          ),
+        ),
       ),
     );
   }
