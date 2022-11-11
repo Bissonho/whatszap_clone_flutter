@@ -1,16 +1,14 @@
-# whatsapp_clone
+## About
+This project is a Whatszap screens clone responsive for web and mobile:
 
-A new Flutter project.
+[Web Version Demo](https://whatsappflutter.paulobissonho.com.br)
 
-## Getting Started
+- Flutter has two rendering modes for web, Canvaskit and HTML renderer, which uses Skia and webassembly, but adds an extra 2MB, not recommended for mobile. The project was compiled using the "Auto" mode, which generates both versions and is adapted for each platform. Desktop uses Canvaskit and mobile uses Html HTML renderer
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
