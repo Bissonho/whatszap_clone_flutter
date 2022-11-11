@@ -46,10 +46,10 @@ class ContactsList extends StatelessWidget {
                   ),
                 ),
               ),
-              const Divider(
+              Divider(
+                height: 2,
                 color: dividerColor,
-                indent: 85,
-              ),
+              )
             ],
           );
         },
