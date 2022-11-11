@@ -8,6 +8,17 @@ This project is a Whatszap screens clone responsive for web and mobile:
 
 ## Responsive UI
 
+- Web Interface
+<p align="left">
+  <img width=100% height=100% src="assets/images/readme/web_screen.png">
+</p>
+
+- Mobile interface
+<p align="left">
+  <img width=80% height=80% src="assets/images/readme/mobile_screen.png">
+</p>
+
+
 
 
 
