@@ -19,6 +19,9 @@ This project is a Whatszap screens clone responsive for web and mobile:
 </p>
 
 
+- Credits for the tutorial https://www.youtube.com/watch?v=yqwfP2vXWJQ&ab_channel=RivaanRanawat
+
+
 
 
 
